@@ -14,3 +14,6 @@ The point of the game is to try and guess the 5-letter secret word within 6 gues
 
 # Prerequisites
 Nothing needs to be downloaded in order to play this game. All that needs to be done is to click the link provided.
+
+# Important
+This currently does not work for mobile, you need a keyboard to input letters.
