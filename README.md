@@ -1,7 +1,7 @@
 # WordleGameClone
 This was one of my first projects using HTML, CSS, and JavaScript.
 It is based on the popular game Wordle.
-The point of the game is to try and guess the 5-letter secret word within 5 guesses.
+The point of the game is to try and guess the 5-letter secret word within 6 guesses.
 
 # Tools Used
 * JavaScript
