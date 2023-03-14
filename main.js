@@ -79,9 +79,8 @@ function start(){
                 }
 
             }
-            //if the user guesses the word, displays a winning message
+            //if the user guesses the word, gameover
             if(correctAmt==5){
-                alert("Nice Job, You guessed the Correct word!");
                 gameOver=true;
             //otherwise, go to the next row
             }else{
