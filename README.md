@@ -17,3 +17,4 @@ Nothing needs to be downloaded in order to play this game. All that needs to be 
 
 # Important
 This currently does not work for mobile, you need a keyboard to input letters.
+* To play again, refresh the window
